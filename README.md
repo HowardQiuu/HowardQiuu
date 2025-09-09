@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👋 Hi， I'm @Howard.Qiuu.
+- 👋 Hi, I'm @Howard.Qiuu.
 - 🔭 I’m currently working on Graph Nerual Networks, Time series forecasting and LLM.
 - 🌱 I’m currently learning Reforcement Learning and Agents.
 - ⚡ Base:Shenzhen, Guangdong China.
